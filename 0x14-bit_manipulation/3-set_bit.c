@@ -3,7 +3,7 @@
 /**
  * set_bit - sets the value of a bit at a given index to 1
  * @n: pointer to the number to change
- * @index: index of the bit to set to 1 in a set value of your preference 
+ * @index: index of the bit to set to 1 in a set value of your preference
  *
  * Return: 1 for success, -1 if there is an error
  */

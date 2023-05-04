@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_binary - prints the binary representation of a number 
- * @n: number that is going to be printed in the binary
+ * print_binary - prints the binary representation of a number
+ * @n: number to be printed in the binary
  */
 void print_binary(unsigned long int n)
 {
@@ -24,4 +24,3 @@ void print_binary(unsigned long int n)
 	if (!count)
 		_putchar('0');
 }
-

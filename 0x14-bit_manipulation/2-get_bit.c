@@ -2,10 +2,10 @@
 
 /**
  * get_bit - returns the value of a bit at a given index
- * @n: numberthat is going to be search
+ * @n: number that is going to be searched
  * @index: index of the bit that you want to get
  *
- * Return: value of a bit index 
+ * Return: value of a bit index
  */
 int get_bit(unsigned long int n, unsigned int index)
 {
@@ -18,4 +18,3 @@ int get_bit(unsigned long int n, unsigned int index)
 
 	return (bit_val);
 }
-
